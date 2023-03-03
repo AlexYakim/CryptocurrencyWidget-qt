@@ -1,2 +1,2 @@
-# Crypto_curency_widget---Qt
+# CryptocurrencyWidget-qt
 Widget for getting the bitcoin exchange rate in dollars, euros and hryvnias
